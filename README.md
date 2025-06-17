@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himansh404" alt="himansh404" /></a> </p>
 
-- 🔭 I’m currently working on **Nirogya - Your own AI fitness trainer**
+- 🔭 I’m currently working on **DeepQry- Your Deep Research Agentic AI**
 
 - 🌱 I’m currently learning **Next js**
 
